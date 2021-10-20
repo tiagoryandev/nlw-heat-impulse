@@ -2,7 +2,7 @@
 
 Nesse projeto, foi desenvolvido uma aplicação BackEnd para envio de mensagens em tempo real, onde você poderá se autenticar com sua conta no Github e fazer o envio de mensagens. Esse projeto está sendo desenvolvido na [Next Level Week: Heat](https://nextlevelweek.com/) da Rocketseat na Trilha Impulse.
 
-## :folder: Objetivos do Projeto:
+## :scroll: Objetivos do Projeto:
 
 - [x] Criar projeto com Yarn ou NPM;
 - [x] Instalar Express, Prisma, Typescript;
