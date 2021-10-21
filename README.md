@@ -19,4 +19,5 @@ Infelizmente essa será o final do projeto, pois não tenho condições de desen
 ## :heart: Agradecimentos Especiais:
 
 :beginner: [Daniele Evangelista](https://github.com/danileao) - Responsável pelo Back-End.
+
 :beginner: [Diego Fernandes](https://github.com/diego3g) - Responsável pelo Front-End.
