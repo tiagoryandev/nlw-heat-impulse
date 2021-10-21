@@ -1,3 +1,5 @@
 backend/node_modules
 backend/.env
 backend/yarn.lock
+frontend/node_modules
+frontend/yarn.lock
